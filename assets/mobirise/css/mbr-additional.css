@@ -23,6 +23,21 @@
 #ext_menu-44 .mbr-navbar__section {
   background: #ffffff;
 }
+#ext_menu-44 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header3-40 H3 {
+  text-align: center;
+}
+#header3-40 P {
+  text-align: center;
+}
+#header3-42 H3 {
+  text-align: center;
+}
+#header3-42 P {
+  text-align: center;
+}
 #msg-box4-37 .mbr-header__text {
   color: #000000;
 }
@@ -44,6 +59,9 @@
 }
 #ext_menu-32 .mbr-navbar__section {
   background: #ffffff;
+}
+#ext_menu-32 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #msg-box4-32 .mbr-header__text {
   color: #000000;
@@ -69,34 +87,34 @@
   background: #ffffff;
 }
 #msg-box3-43 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-43 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-43 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-41 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-41 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-41 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-35 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-35 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-35 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-31 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-31 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -107,68 +125,71 @@
 #msg-box3-31 .mbr-article {
   text-align: center;
 }
+#msg-box3-31 .mbr-article P {
+  text-align: left;
+}
 #msg-box3-29 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-29 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-29 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-26 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-26 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-26 .mbr-article {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-24 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-24 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-24 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-23 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-23 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-23 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-22 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-22 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-22 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-12 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-12 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-12 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-11 .mbr-header .mbr-header__text {
-  text-align: center;
+  text-align: left;
 }
 #msg-box3-11 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-11 .mbr-article P {
-  text-align: center;
+  text-align: left;
 }
 #ext_menu-40 .mbr-brand__name {
   font-size: 16px;
@@ -178,4 +199,7 @@
 }
 #ext_menu-40 .mbr-navbar__section {
   background: #ffffff;
+}
+#ext_menu-40 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
